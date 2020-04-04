@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:0,playlist.m3u8
+#EXTVLCOPT:network-caching=1000
+https://5ad79df289937.streamlock.net/Aquarium-WebCams/Secret-Reef.stream/playlist.m3u8
+#EXTINF:0,playlist.m3u8
+#EXTVLCOPT:network-caching=1000
+https://5ad79df289937.streamlock.net/Aquarium-WebCams/Penguins.stream/playlist.m3u8
+#EXTINF:0,playlist.m3u8
+#EXTVLCOPT:network-caching=1000
+https://5ad79df289937.streamlock.net/Aquarium-WebCams/Otters.stream/playlist.m3u8
